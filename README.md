@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Haolin Shen. I also go by Charles. I am currently a PhD student in the Biomedical Sciences Program at UCSF.
 
 <!--
 **CharlesShen99/CharlesShen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Haolin(Charles)Shen](https://github.com/CharlesShen99/CharlesShen99/assets/142116220/7a173281-ac8c-4743-883e-b3668066b59e)
