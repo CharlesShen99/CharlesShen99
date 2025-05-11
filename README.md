@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Haolin Shen. I also go by Charles. I am currently a PhD student in the Biomedical Sciences Program at UCSF.
+My name is Haolin Shen. I also go by Charles. I am a 2nd year PhD student in the Biomedical Sciences Program at UCSF.
 
 <!--
 **CharlesShen99/CharlesShen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
